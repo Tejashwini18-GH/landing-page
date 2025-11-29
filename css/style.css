@@ -111,3 +111,10 @@ button{
     font-weight: bolder;
     padding-bottom: 6px;
 }
+.card-one, .card-two, .card-three, .card-four{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+}
