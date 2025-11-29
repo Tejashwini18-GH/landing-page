@@ -1,3 +1,3 @@
 # landing-page
 
-A simple Landing Page made using HTML and CSS!
+A simple Christmas-themed Landing Page made using HTML and CSS!
