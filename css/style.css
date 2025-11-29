@@ -42,11 +42,12 @@ button{
 }
 .quote{
     background-color: #E5E7EB;
+    padding: 50px 250px;
+    
 }
 .quote-text{
     font-size: 36px;
     color: #1F2937;
-    font-weight: 300;
 }
 .cards-img{
     border: 2px solid steelblue;
@@ -86,9 +87,6 @@ button{
     text-align: center;
     margin: 0 auto;
 }
-.card-one{
-    justify-content: center;
-}
 .information{
     padding: 10px 200px 50px 200px;
 }
@@ -96,4 +94,20 @@ button{
     text-align: center;
     padding: 20px 0 20px 0;
     color: #E5E7EB;
+}
+.person{
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: end;
+    padding-top: 4px;
+}
+.action{
+    margin: 50px 200px 50px 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 26px 56px;
+}
+.action-title{
+    font-weight: bolder;
+    padding-bottom: 6px;
 }
