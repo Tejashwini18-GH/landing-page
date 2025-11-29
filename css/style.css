@@ -58,8 +58,8 @@ button{
     width: 400px;
     height: 200px;
 }
-.full-header{
-    padding: 0 150px 50px 150px;
+.full-header, .footer{
+    padding: 10px 150px 50px 150px;
 }
 .header{
     display: flex;
@@ -73,4 +73,27 @@ button{
 .hero{
     display: flex;
     gap: 48px;
+}
+.information p{
+    text-align: center;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+.text{
+    text-align: center;
+    margin: 0 auto;
+}
+.card-one{
+    justify-content: center;
+}
+.information{
+    padding: 10px 200px 50px 200px;
+}
+.footer{
+    text-align: center;
+    padding: 20px 0 20px 0;
+    color: #E5E7EB;
 }
